@@ -17,7 +17,7 @@ Here you can add, edit and remove certificates and credetials to authenticate to
 The list of host services that you want to remote config and monitor.
 
 ## Reports
-Watch config-upload results, monitoring datas and adviser suggetions. Set alert e-mails and schedule e-mail reports to administrators and leaders.
+Watch config-upload results, monitoring datas and adviser suggetions. Set alert e-mails and schedule e-mail reports to administrators and leaders. Here you can generate documents for your company document system.
 
 ## System management
 You can set a replication, archive and backup of configuration, config-upload results, monitoring datas and adviser suggetions.
