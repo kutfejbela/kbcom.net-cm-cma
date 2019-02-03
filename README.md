@@ -1,2 +1,2 @@
 # kbcom.net-cm-cma
-Central Management - Config, Monitor and Advise
+Central Management - Config, Monitor, Advise
